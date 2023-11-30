@@ -117,7 +117,12 @@
                                  <span>Computador e laptop</span>
                                  <h1>Accessorios</h1>
                                  <p>Vendido em lojas, o computador completo vem com tudo o que você precisa para começar a usá-lo. Saiba como escolher o seu de última geração.</p>
-                                 <a href="#">Comprar agora</a> <a href="contact.html">Fale - Connosco </a>
+                                 <a href="#">Comprar agora</a> <a href="contact.html">Fale Connosco </a>
+                              <a>
+                                 <div class="">
+                                    
+                                 </div>
+                              </a>
                               </div>
                            </div>
                            <div class="col-md-6">
